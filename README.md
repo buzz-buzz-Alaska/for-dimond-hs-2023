@@ -12,6 +12,14 @@ Anyone is welcome to contribute. If you wish to do so, please submit a push requ
 
 - You will be helping other students and this repository itself.
 
+## How to contribute
+
+- Create a Fork of this project
+
+- Write your proposed changes into that Fork
+
+- Submit a Pull Request (sometimes called a \"Merge Request\")
+
 # About this project
 
 **This project is meant to be educational. This is not meant to help students cheat on assignments. This is meant to assist with assignments.**
