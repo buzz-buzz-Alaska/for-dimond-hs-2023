@@ -18,7 +18,9 @@ Anyone is welcome to contribute. If you wish to do so, please submit a push requ
 
 - Write your proposed changes into that Fork
 
-- Submit a Pull Request (sometimes called a \"Merge Request\")
+- Submit a Pull Request using that fork
+
+- Your Pull request will get processed.
 
 ## Requested Help
 
