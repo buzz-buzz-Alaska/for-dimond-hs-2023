@@ -20,6 +20,10 @@ Anyone is welcome to contribute. If you wish to do so, please submit a push requ
 
 - Submit a Pull Request (sometimes called a \"Merge Request\")
 
+## Requested Help
+
+- Classes that contributors have developed tools for
+
 # About this project
 
 **This project is meant to be educational. This is not meant to help students cheat on assignments. This is meant to assist with assignments.**
