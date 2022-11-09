@@ -16,4 +16,5 @@ Anyone is welcome to contribute. If you wish to do so, please submit a push requ
 
 **This project is meant to be educational. This is not meant to help students cheat on assignments. This is meant to assist with assignments.**
 
-This project is created by a student at Dimond High School, Anchorage, AK. Dimond High School is under the command of the Anchorage School District, now referred to as \"ASDK12\".
+This project is created by a student at Dimond High School, Anchorage, AK. Dimond High School is under the command of the Anchorage School District, now referred to as \"ASDK12\" within this project.
+
