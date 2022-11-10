@@ -24,11 +24,15 @@ Anyone is welcome to contribute. If you wish to do so, please submit a push requ
 
 ## Requested Help (Specific topics)
 
-- English 1 tools
+- English 1 tools (Natural Language Processing and Production)
 
 - Survey of Algebra (Pre-Algebra) tools
 
 - Physical Science 1 tools
+
+- PLTW STEM
+
+- if there's any suggestions, please email them to the developer at ``ak.rj2@outlook.com``
 
 # About this project
 
