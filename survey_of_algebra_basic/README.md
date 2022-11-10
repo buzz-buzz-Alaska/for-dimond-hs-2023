@@ -9,7 +9,7 @@ Check that Pip exists:
 
 Install all Python modules:
 
-``pip install scipy numpy matplotlib pandas``
+``pip install numpy matplotlib pandas``
 
 ## Install on Debian-based Linux (Debian, Ubuntu, Raspberry Pi OS):
 
@@ -23,7 +23,7 @@ Chaeck that Pip exists:
 
 Install all Python modules:
 
-``sudo pip3 install scipy numpy matplotlib pandas``
+``sudo pip3 install numpy matplotlib pandas``
 
 ## Installing these programs on Debian-based Linux:
 
