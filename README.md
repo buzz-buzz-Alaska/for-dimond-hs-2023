@@ -22,9 +22,13 @@ Anyone is welcome to contribute. If you wish to do so, please submit a push requ
 
 - Your Pull request will get processed.
 
-## Requested Help
+## Requested Help (Specific topics)
 
-- Classes that contributors have developed tools for
+- English 1 tools
+
+- Survey of Algebra (Pre-Algebra) tools
+
+- Physical Science 1 tools
 
 # About this project
 
