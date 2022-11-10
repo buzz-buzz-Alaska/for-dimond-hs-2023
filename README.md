@@ -2,6 +2,12 @@
 
 ASDK12 Dimond HS 2022 to 2023 Semester 1
 
+## Important notes:
+
+- This repository is very incomplete. The formats are still unorganized, and hard to understand.
+
+- As of 10 Nov 2022, the programs are just starting to be built. This repository is still mostly empty.
+
 # Contributions
 
 Anyone is welcome to contribute. If you wish to do so, please submit a push request.
