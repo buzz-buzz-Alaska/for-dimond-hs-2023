@@ -25,3 +25,10 @@ Install all Python modules:
 
 ``sudo pip3 install scipy numpy matplotlib pandas``
 
+## Installing these programs on Debian-based Linux:
+
+``git clone https://github.com/buzz-buzz-Alaska/for-dimond-hs-2023.git``
+
+``cd for-dimond-hs-2023``
+
+``cd survey_of_algebra_basic``
