@@ -38,6 +38,8 @@ Anyone is welcome to contribute. If you wish to do so, please submit a push requ
 
 - PLTW STEM
 
+- Personal Navigation and routing software to help out new students
+
 - if there's any suggestions, please email them to the developer at ``ak.rj2@outlook.com``
 
 # About this project
